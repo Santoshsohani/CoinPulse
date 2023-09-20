@@ -1,0 +1,29 @@
+img{
+    width: 75px;
+    height: 75px;
+}
+*{
+    color: white;
+}
+
+.container{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 2em;
+}
+
+span{
+    font-size: 90px;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 90px;
+    font-weight: 900;
+    color: #E200EC;
+}
+
+.innerText{
+    color: #733dfc;
+}
